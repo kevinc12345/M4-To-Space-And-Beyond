@@ -1,0 +1,8 @@
+res://ship.gd
+res://lessons_reference/space_level.tscn
+res://assets/ship/main_thruster/thruster_material.tres
+res://assets/background/space_material.tres
+res://lessons_reference/sprite_2d.tscn
+res://sprite.gd
+res://assets/ship/main_thruster/main_thruster.gd
+res://lessons_reference/space_level.gd

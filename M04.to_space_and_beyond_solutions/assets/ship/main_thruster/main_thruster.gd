@@ -106,3 +106,7 @@ func _update_drawing() -> void:
 		new_points[index] = Vector2.from_angle(curl * ratio) * segment_length + point_previous
 		
 	points = new_points
+
+
+func _on_timer_timeout() -> void:
+	pass # Replace with function body.

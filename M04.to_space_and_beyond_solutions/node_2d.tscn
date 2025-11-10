@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://nmhydic2hlnt"]
+
+[ext_resource type="Texture2D" uid="uid://bniyrxn3r2v8h" path="res://assets/ship.png" id="1_0e48y"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(436, 251)
+texture = ExtResource("1_0e48y")
+
+[node name="Timer" type="Timer" parent="."]
